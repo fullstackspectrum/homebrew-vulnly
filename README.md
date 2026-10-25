@@ -8,10 +8,11 @@ The Homebrew tap for [Vulnly](https://github.com/fullstackspectrum/Vulnly), a to
 brew install fullstackspectrum/vulnly/vulnly
 ```
 
-Or tap first, then install by name:
+Or tap first, then install by name. Homebrew only loads formulae from a tap you have trusted, so trust it before installing:
 
 ```bash
 brew tap fullstackspectrum/vulnly
+brew trust fullstackspectrum/vulnly
 brew install vulnly
 ```
 
