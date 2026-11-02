@@ -7,8 +7,8 @@ class Vulnly < Formula
 
   desc "Offline, self-contained HTML vulnerability reports from scanner output"
   homepage "https://github.com/fullstackspectrum/Vulnly"
-  url "https://files.pythonhosted.org/packages/fd/90/c5b7620ba453cfbb2b0b052f5f9de630d4797779f67eca3bdc323f26366b/vulnly-1.1.1.tar.gz"
-  sha256 "ecd7bd61588ba288d94fb0d215b6b6f08c91de4dbad8e8b1f251878289b9db34"
+  url "https://files.pythonhosted.org/packages/83/2c/a2d70c90b2492220118bc6be53f517460950e1ad20401768e04554c170e5/vulnly-1.1.2.tar.gz"
+  sha256 "695c510cdc4a8ee96691db30768c708ccf8842acf422aedac81c24a35a7a8e52"
   license "Apache-2.0"
 
   depends_on "python@3.13"
